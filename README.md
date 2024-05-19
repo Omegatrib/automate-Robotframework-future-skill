@@ -9,10 +9,10 @@
    git clone https://github.com/Omegatrib/automate-Robotframework-future-skill.git 
    ```
 
-2. navigate and run the testcases.robot
+2. navigate and run the RegisterTestcases.robot
 
- ```bash
-  robot .\testcases\testcase.robot 
-  ```
+   ```bash
+   robot .\testcases\RegisterTestcases.robot
+   ```
 
 3. see the result
